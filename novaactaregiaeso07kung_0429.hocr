@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso07kung_0429.png"; bbox 0 0 1877 2625; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 83 2494 561 2564">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 83 2494 561 2564">
+     <span class='ocr_line' id='line_1_1' title="bbox 83 2494 561 2564; baseline 0.004 -24"><span class='ocrx_word' id='word_1_1' title='bbox 83 2494 317 2545; x_wconf 74' lang='lat' dir='ltr'>GAL1UM</span> <span class='ocrx_word' id='word_1_2' title='bbox 344 2501 561 2564; x_wconf 38' lang='lat' dir='ltr'><em>*sl&#39;rtz&#39;yosu</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 14 89 1785 2422">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 14 89 1785 2422">
+     <span class='ocr_line' id='line_1_2' title="bbox 14 89 1785 2422; baseline 0 -36"><span class='ocrx_word' id='word_1_3' title='bbox 14 89 1785 2422; x_wconf 95' lang='lat' dir='ltr'><em>    </em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1578 2330 1785 2386; x_wconf 95' lang='lat' dir='ltr'><em>  </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 866 2399 1578 2456">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 866 2399 1578 2456">
+     <span class='ocr_line' id='line_1_3' title="bbox 866 2399 1578 2456; baseline 0.007 -24"><span class='ocrx_word' id='word_1_5' title='bbox 866 2399 1013 2434; x_wconf 52' lang='lat' dir='ltr'><em>AEIAR</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1026 2406 1169 2434; x_wconf 71' lang='lat' dir='ltr'>CHAN</span> <span class='ocrx_word' id='word_1_7' title='bbox 1179 2407 1279 2435; x_wconf 73' lang='lat' dir='ltr'><em>TLA</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1316 2401 1414 2456; x_wconf 49' lang='grc' dir='ltr'><em>(Τίῳ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1424 2416 1475 2436; x_wconf 72' lang='grc' dir='ltr'><em>οη</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1485 2402 1578 2437; x_wconf 71' lang='lat' dir='ltr'><em>ica.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
